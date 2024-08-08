@@ -1,6 +1,6 @@
 # Diamond Price Predictor
 
-This project provides a web interface and API to predict the price of diamonds based on various features such as carat, cut, color, clarity, depth, and table. The model used is an XGBoost regressor trained on a diamond dataset.
+This project provides a web interface and API to predict the price of diamonds based on various features such as carat, cut, color, clarity, depth, and table. The model used is an Multi Layer Perceptron regressor trained on a diamond dataset.
 
 ## Features
 
