@@ -24,9 +24,10 @@ This project provides a web interface and API to predict the price of diamonds b
 ```graphql
 .
 ├── app.py               # Main FastAPI application
+├── pipline.py           # Preprocessing data pipline
 ├── models               # Directory containing the trained model
-│   └── xgboost
-│       └── diamonds_model_xgboost.pkl
+│   └── mlp
+│       └── diamonds_model_mlp.keras
 ├── templates            # Directory containing HTML templates
 │   └── index.html
 ├── static               # Directory containing static files (e.g., CSS)
