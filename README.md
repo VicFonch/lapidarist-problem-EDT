@@ -23,16 +23,17 @@ This project provides a web interface and API to predict the price of diamonds b
 
 ```graphql
 .
-├── app.py # Main FastAPI application
-├── models # Directory containing the trained model
-│ └── xgboost
-│ └── diamonds_model_xgboost.pkl
-├── templates # Directory containing HTML templates
-│ └── index.html
-├── static # Directory containing static files (e.g., CSS)
-│ └── styles.css
-├── requirements.txt # Project dependencies
-└── README.md # This README file
+├── app.py               # Main FastAPI application
+├── models               # Directory containing the trained model
+│   └── xgboost
+│       └── diamonds_model_xgboost.pkl
+├── templates            # Directory containing HTML templates
+│   └── index.html
+├── static               # Directory containing static files (e.g., CSS)
+│   └── styles.css
+├── requirements.txt     # Project dependencies
+└── README.md            # This README file
+
 ```
 
 ## Installation
