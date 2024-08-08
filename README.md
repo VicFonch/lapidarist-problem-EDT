@@ -21,6 +21,7 @@ This project provides a web interface and API to predict the price of diamonds b
 
 ## Directories
 
+```graphql
 .
 ├── app.py # Main FastAPI application
 ├── models # Directory containing the trained model
@@ -32,6 +33,7 @@ This project provides a web interface and API to predict the price of diamonds b
 │ └── styles.css
 ├── requirements.txt # Project dependencies
 └── README.md # This README file
+```
 
 ## Installation
 
