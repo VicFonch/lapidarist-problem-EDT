@@ -42,7 +42,7 @@ This project provides a web interface and API to predict the price of diamonds b
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/diamond-price-predictor.git
+git clone https://github.com/VicFonch/lapidarist-problem-EDT
 cd diamond-price-predictor
 ```
 
