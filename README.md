@@ -43,7 +43,7 @@ This project provides a web interface and API to predict the price of diamonds b
 
 ```bash
 git clone https://github.com/VicFonch/lapidarist-problem-EDT
-cd diamond-price-predictor
+cd lapidarist-problem-EDT
 ```
 
 2. Create a virtual environment and activate it:
